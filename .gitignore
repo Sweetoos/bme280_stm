@@ -1,0 +1,8 @@
+Debug
+build
+.settings
+.cproject
+.mxproject
+.project
+clean_stm32_template Debug.launch
+.vscode
